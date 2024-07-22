@@ -1,0 +1,11 @@
+{
+  "name": "Python Docker Container",
+  "dockerFile": "Dockerfile",
+  "extensions": [
+    "ms-python.python",
+    "ms-azuretools.vscode-docker"
+  ],
+  "settings": {
+    "python.pythonPath": "/usr/local/bin/python"
+  }
+}
